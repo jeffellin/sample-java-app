@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SampleApplication {
 
 	public static void main(String[] args) {
-		//hi2
+		//hi23
 		SpringApplication.run(SampleApplication.class, args);
 	}
 
